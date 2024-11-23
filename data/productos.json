@@ -1,0 +1,28 @@
+[
+  {
+    "id": "decaab79-d46a-446c-851b-318dd7f45bc4",
+    "title": "Jazz Senior",
+    "description": "Clase avanzada de Jazz para estudiantes experimentados.",
+    "code": "JAZZ05",
+    "price": 8000,
+    "status": true,
+    "stock": 5,
+    "category": "Danza",
+    "thumbnails": [
+      "./assets/img/imagenes/5.png"
+    ]
+  },
+  {
+    "id": "9f13952e-1a11-4e0c-8611-7d6862e963b6",
+    "title": "Tap Básico",
+    "description": "Clase básica de Tap para principiantes.",
+    "code": "TAP06",
+    "price": 8000,
+    "status": true,
+    "stock": 20,
+    "category": "Danza",
+    "thumbnails": [
+      "./assets/img/imagenes/6.png"
+    ]
+  }
+]
